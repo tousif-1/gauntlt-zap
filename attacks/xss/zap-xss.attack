@@ -2,7 +2,7 @@
 Feature: Look for common vulnerabilities using owasp-zap
 
 Background:
-  Given "zap" is installedGiven 
+  Given "zap" is installed 
   And the following environment variables:
   | name  | environment_variable_name           |
   | url   | TARGET_HOSTNAME                     |
