@@ -1,5 +1,5 @@
 # Gauntlt with ZAP and Arachni for Docker
-This repo is intended for hosting a handful of scripts for security testing based on [James Wickett's security testing class](https://github.com/wickett/security-testing-class), and [dockerized owasp-zap for CI/CD by Stephen Donner](https://github.com/stephendonner/docker-zap)
+This repo is intended for hosting a handful of scripts for security testing based on [James Wickett's security testing class](https://github.com/wickett/security-testing-class), and [dockerized owasp-zap for CI/CD by Stephen Donner](https://github.com/stephendonner/docker-zap).
 
 ## How it works
 The [Gauntlt](https://github.com/gauntlt/gauntlt) container is purposely made to get started with security testing with Gauntlt.
